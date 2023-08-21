@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">exercicio-KG-------lbs</string>
-    <string name="cost_of_service">Peso em KG ou LBS</string>
-    <string name="amazing_service">KG ----> LBS</string>
-    <string name="good_service">LBS ----> KG</string>
+    <string name="peso_em_kg_ou_lbs">Peso em KG ou LBS</string>
+    <string name="kilos_para_lbs">KG ----> LBS</string>
+    <string name="lbs_para_kilos">LBS ----> KG</string>
     <string name="calculate">Calcular</string>
-    <string name="tip_amount">Resultado</string>
+    <string name="tip_amount">Tip Amount: %s</string>
 </resources>

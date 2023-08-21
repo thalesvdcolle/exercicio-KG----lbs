@@ -6,6 +6,10 @@ plugins {
 android {
     compileSdk 34
 
+    buildFeatures {
+        viewBinding = true
+    }
+
     defaultConfig {
         applicationId "com.github.thalesvdcolle.exercicio_kg_______lbs"
         minSdk 21
